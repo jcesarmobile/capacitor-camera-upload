@@ -1,0 +1,6 @@
+{
+  "appId": "com.capacitor.camera.upload",
+  "appName": "capacitor-camera-upload",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
